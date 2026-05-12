@@ -1,0 +1,14 @@
+[project]
+name = "decennial-headship-rates"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel==6.31.0",
+    "nbformat>=5.10.4",
+    "pandas>=3.0.3",
+    "plotly>=6.7.0",
+    "quarto>=0.1.0",
+    "requests>=2.34.0",
+]

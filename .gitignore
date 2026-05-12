@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Quarto
+/.quarto/
+_freeze/
+dashboard_files/
+dashboard.html
+
+# Cached data
+data/
